@@ -1,4 +1,4 @@
-module github.com/boj/redistore
+module github.com/yveshield/redistore
 
 go 1.14
 
